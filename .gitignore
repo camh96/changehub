@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+public/images/missions
+.DS_Store
+public/system
